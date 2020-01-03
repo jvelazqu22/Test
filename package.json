@@ -1,0 +1,22 @@
+{
+  "name": "jvelazqu22-test",
+  "version": "0.0.1",
+  "description": "this is just a test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvelazqu22/Test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jorge v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvelazqu22/Test/issues"
+  },
+  "homepage": "https://github.com/jvelazqu22/Test#readme"
+}
